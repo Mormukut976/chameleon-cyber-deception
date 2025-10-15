@@ -141,18 +141,8 @@ Issues
 
 Wiki
 
-Development
-bash
-# Development setup
-git clone https://github.com/yourusername/chameleon.git
-cd chameleon
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements-dev.txt
-<div align="center">
-If this project helped you, please give it a ⭐️
 
-"The best defense is a good deception"
+
 
 
 
