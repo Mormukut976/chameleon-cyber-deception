@@ -1,0 +1,38 @@
+# Chameleon Core Configuration
+core:
+  version: "1.0.0"
+  debug: false
+  log_level: "INFO"
+  data_dir: "/opt/chameleon/data"
+
+# Network Configuration  
+network:
+  interface: "eth0"
+  monitor_mode: true
+  subnets: ["0.0.0.0/0"]
+  
+# Deception Engine
+deception:
+  personality_switch_interval: 300  # seconds
+  max_concurrent_personalities: 3
+  enable_ai_adaptation: false
+  
+# Services to emulate
+services:
+  ssh:
+    ports: [22228, 22226, 22229]
+    enabled: true
+    high_interaction: true
+  http:
+    ports: [8081, 8082, 8080, 8443]
+    enabled: true
+    high_interaction: true
+  ftp:
+    ports: [21, 2121]
+    enabled: false
+  smtp:
+    ports: [25, 587]
+    enabled: false
+  rdp:
+    ports: [3389]
+    enabled: false

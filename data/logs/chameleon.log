@@ -1,0 +1,521 @@
+2025-10-15 00:02:50,987 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 00:02:51,013 - root - ERROR - Framework startup failed: No module named 'modules.deception.http_emulator'
+2025-10-15 00:14:40,350 - ChameleonEngine - INFO - Logging system initialized
+2025-10-15 00:14:40,351 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 00:14:40,351 - ChameleonEngine - INFO - 🎭 Initial personalities: ['linux_web_server', 'iot_camera']
+2025-10-15 00:14:40,403 - SSHEmulator - ERROR - Error generating host keys: 'bytes' object has no attribute 'readlines'
+2025-10-15 00:14:40,403 - SSHEmulator - INFO - ✅ SSH emulator started on ports: [22, 2222, 22222]
+2025-10-15 00:14:40,403 - HTTPEmulator - INFO - ✅ HTTP emulator started on ports: [80, 443, 8080, 8443]
+2025-10-15 00:14:40,403 - ChameleonEngine - INFO - ✅ 2 service emulators started
+2025-10-15 00:14:40,403 - ChameleonEngine - INFO - ✅ Chameleon Engine fully operational
+2025-10-15 00:16:06,463 - ChameleonEngine - INFO - Logging system initialized
+2025-10-15 00:16:06,463 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 00:16:06,463 - ChameleonEngine - INFO - 🎭 Initial personalities: ['linux_web_server', 'iot_camera']
+2025-10-15 00:16:06,514 - SSHEmulator - ERROR - Error generating host keys: 'bytes' object has no attribute 'readlines'
+2025-10-15 00:16:06,514 - SSHEmulator - INFO - ✅ SSH emulator started on ports: [22, 2222, 22222]
+2025-10-15 00:16:06,514 - HTTPEmulator - INFO - ✅ HTTP emulator started on ports: [80, 443, 8080, 8443]
+2025-10-15 00:16:06,514 - ChameleonEngine - INFO - ✅ 2 service emulators started
+2025-10-15 00:16:06,514 - ChameleonEngine - INFO - ✅ Chameleon Engine fully operational
+2025-10-15 00:18:44,818 - ChameleonEngine - INFO - Logging system initialized
+2025-10-15 00:18:44,818 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 00:18:44,818 - ChameleonEngine - INFO - 🎭 Initial personalities: ['linux_web_server', 'windows_server_2019']
+2025-10-15 00:18:44,890 - SSHEmulator - ERROR - Error generating host keys: cannot use a string pattern on a bytes-like object
+2025-10-15 00:18:45,011 - SSHEmulator - INFO - ✅ SSH emulator started on ports: [22, 2222, 22222]
+2025-10-15 00:18:45,011 - HTTPEmulator - INFO - ✅ HTTP emulator started on ports: [80, 443, 8080, 8443]
+2025-10-15 00:18:45,011 - ChameleonEngine - INFO - ✅ 2 service emulators started
+2025-10-15 00:18:45,011 - ChameleonEngine - INFO - ✅ Chameleon Engine fully operational
+2025-10-15 00:18:45,011 - ChameleonEngine - INFO - 🔄 Switched to personalities: ['windows_server_2019', 'linux_web_server', 'iot_camera']
+2025-10-15 00:18:45,011 - SSHEmulator - INFO - 🖥️ SSH server listening on port 22
+2025-10-15 00:29:09,877 - ChameleonEngine - INFO - Logging system initialized
+2025-10-15 00:29:09,877 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 00:29:09,877 - ChameleonEngine - INFO - 🎭 Initial personalities: ['iot_camera', 'linux_web_server']
+2025-10-15 00:29:09,984 - SSHEmulator - INFO - ✅ SSH emulator started on ports: [22, 2222, 22222]
+2025-10-15 00:29:09,984 - HTTPEmulator - INFO - ✅ HTTP emulator started on ports: [80, 443, 8080, 8443]
+2025-10-15 00:29:09,984 - ChameleonEngine - INFO - ✅ 2 service emulators started
+2025-10-15 00:29:09,984 - ChameleonEngine - INFO - ✅ Chameleon Engine fully operational
+2025-10-15 00:29:09,984 - ChameleonEngine - INFO - 🔄 Switched to personalities: ['linux_web_server', 'windows_server_2019', 'iot_camera']
+2025-10-15 00:29:09,985 - SSHEmulator - INFO - 🖥️ SSH server listening on port 22
+2025-10-15 00:32:18,752 - ChameleonEngine - INFO - Logging system initialized
+2025-10-15 00:32:18,752 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 00:32:18,752 - ChameleonEngine - INFO - 🎭 Initial personalities: ['windows_server_2019', 'iot_camera']
+2025-10-15 00:32:18,800 - SSHEmulator - INFO - ✅ SSH emulator started on ports: [22, 2222, 22222]
+2025-10-15 00:32:18,800 - HTTPEmulator - INFO - ✅ HTTP emulator started on ports: [80, 443, 8080, 8443]
+2025-10-15 00:32:18,800 - ChameleonEngine - INFO - ✅ 2 service emulators started
+2025-10-15 00:32:18,800 - ChameleonEngine - INFO - ✅ Chameleon Engine fully operational
+2025-10-15 00:32:18,800 - ChameleonEngine - INFO - 🔄 Switched to personalities: ['windows_server_2019', 'iot_camera', 'linux_web_server']
+2025-10-15 00:32:18,800 - SSHEmulator - ERROR - SSH server error on port 22: [Errno 98] Address already in use
+2025-10-15 00:32:18,801 - SSHEmulator - INFO - 🖥️ SSH server listening on port 2222
+2025-10-15 00:35:51,800 - ChameleonEngine - INFO - Logging system initialized
+2025-10-15 00:35:51,800 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 00:35:51,800 - ChameleonEngine - INFO - 🎭 Initial personalities: ['windows_server_2019', 'linux_web_server']
+2025-10-15 00:35:51,819 - SSHEmulator - INFO - ✅ SSH emulator started on ports: [22, 2222, 22222]
+2025-10-15 00:35:51,819 - HTTPEmulator - INFO - ✅ HTTP emulator started on ports: [80, 443, 8080, 8443]
+2025-10-15 00:35:51,819 - ChameleonEngine - INFO - ✅ 2 service emulators started
+2025-10-15 00:35:51,819 - ChameleonEngine - INFO - ✅ Chameleon Engine fully operational
+2025-10-15 00:35:51,819 - ChameleonEngine - INFO - 🔄 Switched to personalities: ['windows_server_2019', 'iot_camera', 'linux_web_server']
+2025-10-15 00:35:51,820 - SSHEmulator - ERROR - SSH server error on port 22: [Errno 98] Address already in use
+2025-10-15 00:35:51,820 - SSHEmulator - ERROR - SSH server error on port 2222: [Errno 98] Address already in use
+2025-10-15 00:35:51,820 - SSHEmulator - INFO - 🖥️ SSH server listening on port 22222
+2025-10-15 00:36:58,485 - ChameleonEngine - INFO - Logging system initialized
+2025-10-15 00:36:58,486 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 00:36:58,486 - ChameleonEngine - INFO - 🎭 Initial personalities: ['iot_camera', 'linux_web_server']
+2025-10-15 00:36:58,599 - SSHEmulator - INFO - ✅ SSH emulator started on ports: [22, 2222, 22222]
+2025-10-15 00:36:58,599 - HTTPEmulator - INFO - ✅ HTTP emulator started on ports: [80, 443, 8080, 8443]
+2025-10-15 00:36:58,599 - ChameleonEngine - INFO - ✅ 2 service emulators started
+2025-10-15 00:36:58,599 - ChameleonEngine - INFO - ✅ Chameleon Engine fully operational
+2025-10-15 00:36:58,599 - ChameleonEngine - INFO - 🔄 Switched to personalities: ['iot_camera', 'windows_server_2019', 'linux_web_server']
+2025-10-15 00:36:58,599 - SSHEmulator - ERROR - SSH server error on port 22: [Errno 98] Address already in use
+2025-10-15 00:36:58,599 - SSHEmulator - ERROR - SSH server error on port 2222: [Errno 98] Address already in use
+2025-10-15 00:36:58,599 - SSHEmulator - ERROR - SSH server error on port 22222: [Errno 98] Address already in use
+2025-10-15 00:36:58,599 - HTTPEmulator - ERROR - HTTP server error on port 80: [Errno 98] Address already in use
+2025-10-15 00:36:58,599 - HTTPEmulator - INFO - 🌐 HTTP server listening on port 443
+2025-10-15 00:46:57,792 - ChameleonEngine - INFO - Logging system initialized
+2025-10-15 00:46:57,792 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 00:46:57,792 - ChameleonEngine - INFO - 🎭 Initial personalities: ['iot_camera', 'linux_web_server']
+2025-10-15 00:46:57,873 - SSHEmulator - INFO - ✅ SSH emulator started on ports: [22223, 22224, 22222]
+2025-10-15 00:46:57,874 - HTTPEmulator - INFO - ✅ HTTP emulator started on ports: [8081, 8082, 8080, 8443]
+2025-10-15 00:46:57,874 - ChameleonEngine - INFO - ✅ 2 service emulators started
+2025-10-15 00:46:57,874 - ChameleonEngine - INFO - ✅ Chameleon Engine fully operational
+2025-10-15 00:46:57,874 - ChameleonEngine - INFO - 🔄 Switched to personalities: ['windows_server_2019', 'iot_camera', 'linux_web_server']
+2025-10-15 00:46:57,874 - SSHEmulator - INFO - 🖥️ SSH server listening on port 22223
+2025-10-15 00:50:06,821 - ChameleonEngine - INFO - Logging system initialized
+2025-10-15 00:50:06,821 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 00:50:06,822 - ChameleonEngine - INFO - 🎭 Initial personalities: ['iot_camera', 'linux_web_server']
+2025-10-15 00:50:06,859 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://10.10.10.92:8050
+2025-10-15 00:50:06,859 - SSHEmulator - INFO - ✅ SSH emulator started on ports: [22223, 22224, 22222]
+2025-10-15 00:50:06,859 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 00:50:06,859 - HTTPEmulator - INFO - ✅ HTTP emulator started on ports: [8081, 8082, 8080, 8443]
+2025-10-15 00:50:06,859 - ChameleonEngine - INFO - ✅ 2 service emulators started
+2025-10-15 00:50:06,859 - ChameleonEngine - INFO - ✅ Chameleon Engine fully operational
+2025-10-15 00:50:06,859 - ChameleonEngine - INFO - 🔄 Switched to personalities: ['linux_web_server', 'iot_camera', 'windows_server_2019']
+2025-10-15 00:50:06,860 - SSHEmulator - ERROR - SSH server error on port 22223: [Errno 98] Address already in use
+2025-10-15 00:50:06,860 - SSHEmulator - INFO - 🖥️ SSH server listening on port 22224
+2025-10-15 00:50:24,166 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 00:50:24] "GET / HTTP/1.1" 200 -
+2025-10-15 00:50:24,418 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 00:50:24] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 00:50:24,509 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 00:50:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-15 00:50:26,321 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 00:50:26] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 00:50:28,332 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 00:50:28] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 00:50:30,341 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 00:50:30] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 00:50:32,347 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 00:50:32] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 00:50:34,464 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 00:50:34] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 00:50:36,475 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 00:50:36] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 00:50:38,482 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 00:50:38] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 00:50:40,489 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 00:50:40] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 00:50:42,501 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 00:50:42] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 00:51:43,443 - ChameleonEngine - INFO - Logging system initialized
+2025-10-15 00:51:43,444 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 00:51:43,444 - ChameleonEngine - INFO - 🎭 Initial personalities: ['iot_camera', 'linux_web_server']
+2025-10-15 00:51:43,510 - SSHEmulator - INFO - ✅ SSH emulator started on ports: [22228, 22226, 22229]
+2025-10-15 00:51:43,511 - HTTPEmulator - INFO - ✅ HTTP emulator started on ports: [8081, 8082, 8080, 8443]
+2025-10-15 00:51:43,511 - ChameleonEngine - INFO - ✅ 2 service emulators started
+2025-10-15 00:51:43,511 - ChameleonEngine - INFO - ✅ Chameleon Engine fully operational
+2025-10-15 00:51:43,511 - ChameleonEngine - INFO - 🔄 Switched to personalities: ['iot_camera', 'windows_server_2019', 'linux_web_server']
+2025-10-15 00:51:43,511 - SSHEmulator - INFO - 🖥️ SSH server listening on port 22228
+2025-10-15 01:49:38,510 - ChameleonEngine - INFO - Logging system initialized
+2025-10-15 01:49:38,511 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 01:49:38,511 - ChameleonEngine - INFO - 🎭 Initial personalities: ['linux_web_server', 'iot_camera']
+2025-10-15 01:49:38,605 - SSHEmulator - INFO - ✅ SSH emulator started on ports: [22228, 22226, 22229]
+2025-10-15 01:49:38,606 - HTTPEmulator - INFO - ✅ HTTP emulator started on ports: [8081, 8082, 8080, 8443]
+2025-10-15 01:49:38,606 - ChameleonEngine - INFO - ✅ 2 service emulators started
+2025-10-15 01:49:38,606 - ChameleonEngine - INFO - ✅ Chameleon Engine fully operational
+2025-10-15 01:49:38,606 - ChameleonEngine - INFO - 🔄 Switched to personalities: ['linux_web_server', 'iot_camera', 'windows_server_2019']
+2025-10-15 01:49:38,606 - SSHEmulator - INFO - 🖥️ SSH server listening on port 22228
+2025-10-15 01:49:38,607 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://10.10.10.92:8050
+2025-10-15 01:49:38,607 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-15 01:49:56,159 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:49:56] "GET / HTTP/1.1" 200 -
+2025-10-15 01:49:56,443 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:49:56] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:49:56,480 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:49:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-15 01:49:58,226 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:49:58] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:00,228 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:00] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:02,252 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:02] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:04,263 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:04] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:06,361 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:06] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:08,386 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:08] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:10,404 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:10] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:12,420 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:12] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:14,431 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:14] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:16,452 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:16] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:18,463 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:18] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:20,474 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:20] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:22,485 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:22] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:24,499 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:24] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:26,511 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:26] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:28,535 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:28] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:30,546 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:30] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:32,555 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:32] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:34,565 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:34] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:36,574 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:36] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:38,584 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:38] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:40,598 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:40] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:42,607 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:42] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:44,619 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:44] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:46,637 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:46] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:48,648 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:48] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:50,660 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:50] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:52,678 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:52] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:54,694 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:54] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:56,707 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:56] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:50:58,704 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:50:58] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:00,721 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:00] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:02,739 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:02] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:04,751 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:04] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:06,759 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:06] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:08,767 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:08] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:10,779 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:10] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:12,788 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:12] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:14,824 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:14] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:16,824 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:16] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:18,837 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:18] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:20,834 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:20] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:22,850 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:22] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:24,856 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:24] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:25,028 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:25] "GET / HTTP/1.1" 200 -
+2025-10-15 01:51:25,096 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:25] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:27,080 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:27] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:29,088 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:29] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:31,097 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:31] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:33,105 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:33] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:35,129 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:35] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:37,192 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:37] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:39,204 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:39] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:41,241 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:41] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:43,256 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:43] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:45,260 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:45] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:47,261 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:47] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:49,261 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:49] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:51,262 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:51] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:53,273 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:53] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:55,277 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:55] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:57,274 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:57] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:51:59,279 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:51:59] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:01,282 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:01] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:03,295 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:03] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:05,293 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:05] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:07,296 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:07] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:09,332 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:09] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:11,341 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:11] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:13,353 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:13] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:15,351 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:15] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:17,355 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:17] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:19,353 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:19] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:21,355 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:21] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:23,367 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:23] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:25,364 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:25] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:27,365 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:27] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:29,398 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:29] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:31,400 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:31] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:33,414 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:33] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:35,430 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:35] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:37,442 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:37] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:39,440 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:39] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:41,443 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:41] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:43,444 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:43] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:45,445 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:45] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:47,455 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:47] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:49,447 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:49] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:51,449 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:51] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:53,449 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:53] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:55,452 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:55] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:57,460 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:57] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:52:59,465 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:52:59] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:01,458 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:01] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:03,459 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:03] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:05,471 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:05] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:07,484 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:07] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:09,481 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:09] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:11,486 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:11] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:13,519 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:13] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:15,519 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:15] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:17,521 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:17] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:19,521 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:19] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:21,523 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:21] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:23,535 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:23] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:25,554 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:25] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:28,265 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:28] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:30,272 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:30] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:32,282 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:32] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:34,293 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:34] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:36,302 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:36] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:38,307 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:38] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:40,312 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:40] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:42,316 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:42] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:44,322 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:44] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:46,331 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:46] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:48,341 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:48] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:50,359 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:50] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:52,372 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:52] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:54,380 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:54] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:56,385 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:56] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:53:58,394 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:53:58] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:00,436 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:00] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:02,452 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:02] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:04,471 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:04] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:06,456 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:06] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:08,459 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:08] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:10,454 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:10] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:12,492 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:12] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:14,480 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:14] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:15,756 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:15] "GET / HTTP/1.1" 200 -
+2025-10-15 01:54:15,798 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:15] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:17,778 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:17] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:19,783 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:19] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:22,405 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:22] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:24,520 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:24] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:26,532 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:26] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:28,543 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:28] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:30,596 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:30] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:32,585 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:32] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:34,594 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:34] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:36,600 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:36] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:38,613 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:38] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:40,619 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:40] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:42,619 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:42] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:44,621 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:44] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:46,615 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:46] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:48,035 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:48] "GET / HTTP/1.1" 200 -
+2025-10-15 01:54:48,074 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:48] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:50,053 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:50] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:52,082 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:52] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:54,101 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:54] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:56,108 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:56] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:54:58,113 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:54:58] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:00,114 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:00] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:02,123 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:02] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:04,125 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:04] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:06,128 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:06] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:08,126 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:08] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:10,129 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:10] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:12,140 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:12] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:14,144 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:14] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:16,148 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:16] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:18,153 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:18] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:18,397 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:18] "GET / HTTP/1.1" 200 -
+2025-10-15 01:55:18,442 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:18] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:21,386 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:21] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:23,478 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:23] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:25,470 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:25] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:27,706 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:27] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:29,708 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:29] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:31,709 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:31] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:33,709 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:33] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:35,709 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:35] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:37,709 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:37] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:39,711 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:39] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:41,715 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:41] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:43,715 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:43] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:45,717 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:45] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:47,720 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:47] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:49,721 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:49] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:51,722 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:51] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:53,728 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:53] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:55,732 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:55] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:57,729 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:57] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:55:59,732 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:55:59] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:02,336 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:02] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:04,353 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:04] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:06,366 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:06] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:08,375 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:08] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:10,381 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:10] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:12,457 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:12] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:14,489 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:14] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:16,505 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:16] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:18,518 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:18] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:20,530 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:20] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:22,544 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:22] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:24,559 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:24] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:26,571 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:26] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:28,584 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:28] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:30,595 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:30] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:32,639 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:32] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:34,652 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:34] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:36,662 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:36] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:38,672 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:38] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:40,683 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:40] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:42,711 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:42] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:44,721 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:44] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:46,735 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:46] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:48,747 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:48] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:50,762 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:50] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:52,795 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:52] "GET / HTTP/1.1" 200 -
+2025-10-15 01:56:52,839 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:52] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:54,817 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:54] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:57,050 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:57] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:56:59,075 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:56:59] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:01,060 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:01] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:03,066 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:03] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:05,147 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:05] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:07,164 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:07] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:09,176 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:09] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:11,184 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:11] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:13,186 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:13] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:15,188 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:15] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:17,218 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:17] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:19,219 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:19] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:21,220 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:21] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:23,218 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:23] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:25,218 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:25] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:27,223 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:27] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:29,224 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:29] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:31,227 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:31] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:33,223 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:33] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:35,229 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:35] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:37,260 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:37] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:39,276 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:39] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:41,263 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:41] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:43,295 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:43] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:45,333 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:45] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:47,423 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:47] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:49,434 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:49] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:51,445 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:51] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:53,450 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:53] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:55,460 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:55] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:57,474 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:57] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:57:59,498 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:57:59] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:01,526 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:01] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:03,538 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:03] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:05,549 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:05] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:07,559 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:07] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:09,565 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:09] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:11,572 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:11] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:13,580 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:13] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:15,584 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:15] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:17,589 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:17] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:19,602 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:19] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:21,176 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:21] "GET / HTTP/1.1" 200 -
+2025-10-15 01:58:21,215 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:21] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:24,118 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:24] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:26,234 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:26] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:28,242 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:28] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:30,357 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:30] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:32,382 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:32] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:34,398 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:34] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:36,418 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:36] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:38,430 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:38] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:40,438 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:40] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:42,451 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:42] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:44,472 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:44] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:46,482 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:46] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:48,489 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:48] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:50,498 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:50] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:52,507 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:52] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:54,513 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:54] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:56,521 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:56] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:58:58,534 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:58:58] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:00,543 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:00] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:02,582 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:02] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:04,598 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:04] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:06,606 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:06] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:08,671 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:08] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:10,681 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:10] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:12,702 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:12] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:14,710 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:14] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:16,719 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:16] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:18,728 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:18] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:20,744 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:20] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:22,757 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:22] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:24,769 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:24] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:26,770 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:26] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:28,776 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:28] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:30,829 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:30] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:32,844 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:32] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:34,854 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:34] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:36,864 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:36] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:38,872 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:38] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:40,878 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:40] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:42,888 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:42] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:44,897 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:44] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:46,903 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:46] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:48,910 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:48] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:50,920 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:50] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:52,927 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:52] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:54,937 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:54] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:56,947 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:56] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 01:59:58,959 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 01:59:58] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:00,972 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:00] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:02,983 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:02] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:05,015 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:05] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:07,030 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:07] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:09,040 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:09] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:11,051 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:11] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:13,065 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:13] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:15,071 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:15] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:17,076 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:17] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:19,080 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:19] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:21,084 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:21] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:23,089 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:23] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:25,094 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:25] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:27,102 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:27] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:29,114 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:29] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:31,128 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:31] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:33,139 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:33] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:35,155 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:35] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:37,172 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:37] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:39,191 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:39] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:41,204 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:41] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:43,336 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:43] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:45,346 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:45] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:47,357 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:47] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:49,372 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:49] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:51,386 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:51] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:53,398 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:53] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:55,407 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:55] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:57,442 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:57] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:00:59,456 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:00:59] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:01,465 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:01] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:03,474 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:03] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:05,490 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:05] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:07,501 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:07] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:09,530 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:09] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:11,542 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:11] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:13,559 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:13] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:15,580 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:15] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:17,613 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:17] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:19,647 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:19] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:21,664 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:21] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:23,677 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:23] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:25,689 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:25] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:27,708 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:27] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:29,723 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:29] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:31,739 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:31] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:33,762 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:33] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:35,777 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:35] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:37,787 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:37] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:39,803 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:39] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:41,811 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:41] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:42,222 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:42] "GET / HTTP/1.1" 200 -
+2025-10-15 02:01:42,287 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:42] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:44,736 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:44] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:46,752 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:46] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:48,779 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:48] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:50,790 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:50] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:52,888 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:52] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:54,901 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:54] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:56,911 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:56] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:01:58,924 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:01:58] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:02:00,933 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:02:00] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:02:02,946 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:02:02] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:02:04,962 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:02:04] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:02:06,990 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:02:06] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:02:08,998 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:02:08] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:02:11,003 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:02:11] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:02:13,007 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:02:13] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:02:15,014 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:02:15] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:02:17,024 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:02:17] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:02:19,047 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:02:19] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:02:21,054 - werkzeug - INFO - 127.0.0.1 - - [15/Oct/2025 02:02:21] "GET /api/stats HTTP/1.1" 200 -
+2025-10-15 02:02:39,877 - ChameleonEngine - INFO - Logging system initialized
+2025-10-15 02:02:39,878 - ChameleonEngine - INFO - 🚀 Starting Chameleon Advanced Deception Engine
+2025-10-15 02:02:39,878 - ChameleonEngine - INFO - 🎭 Initial personalities: ['windows_server_2019', 'iot_camera']
+2025-10-15 02:02:39,897 - SSHEmulator - INFO - ✅ SSH emulator started on ports: [22228, 22226, 22229]
+2025-10-15 02:02:39,897 - HTTPEmulator - INFO - ✅ HTTP emulator started on ports: [8081, 8082, 8080, 8443]
+2025-10-15 02:02:39,897 - ChameleonEngine - INFO - ✅ 2 service emulators started
+2025-10-15 02:02:39,897 - ChameleonEngine - INFO - ✅ Chameleon Engine fully operational
+2025-10-15 02:02:39,898 - ChameleonEngine - INFO - 🔄 Switched to personalities: ['windows_server_2019', 'linux_web_server', 'iot_camera']
+2025-10-15 02:02:39,898 - SSHEmulator - ERROR - SSH server error on port 22228: [Errno 98] Address already in use
+2025-10-15 02:02:39,898 - SSHEmulator - INFO - 🖥️ SSH server listening on port 22226

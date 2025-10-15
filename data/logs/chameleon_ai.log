@@ -1,0 +1,28 @@
+2025-10-15 02:32:20,728 - ChameleonAIEngine - INFO - ✅ AI Threat Analyzer initialized
+2025-10-15 02:32:20,729 - ChameleonAIEngine - INFO - 🚀 Starting Chameleon AI-Powered Deception Engine
+2025-10-15 02:36:20,744 - ChameleonAIEngine - INFO - ✅ AI Threat Analyzer initialized
+2025-10-15 02:36:20,744 - ChameleonAIEngine - INFO - 🚀 Starting Chameleon AI-Powered Deception Engine
+2025-10-15 02:36:20,744 - ChameleonAIEngine - INFO - 🎭 AI Initial personalities: ['linux_web_server', 'honeypot_advanced']
+2025-10-15 02:36:20,745 - ChameleonAIEngine - INFO - ✅ AI Engine fully operational
+2025-10-15 02:36:20,745 - ChameleonAIEngine - WARNING - 🤖 AI DETECTED CRITICAL ATTACK: SQL_INJECTION from 192.168.1.100
+2025-10-15 02:36:20,745 - ChameleonAIEngine - INFO - 🤖 AI HIGH RESPONSE: Enhanced deception tactics
+2025-10-15 02:36:20,745 - ChameleonAIEngine - INFO - 🔄 AI Switched to personalities: ['linux_web_server', 'windows_server_2019', 'iot_camera']
+2025-10-15 02:36:20,745 - ChameleonAIEngine - INFO - 📡 Starting AI network monitoring...
+2025-10-15 02:36:20,745 - ChameleonAIEngine - WARNING - 🚨 AI HIGH THREAT: 192.168.1.100 - Skill: 5/10
+2025-10-15 02:36:50,749 - ChameleonAIEngine - WARNING - 🚨 AI HIGH THREAT: 192.168.1.100 - Skill: 5/10
+2025-10-15 02:37:20,754 - ChameleonAIEngine - WARNING - 🚨 AI HIGH THREAT: 192.168.1.100 - Skill: 5/10
+2025-10-15 02:37:50,758 - ChameleonAIEngine - WARNING - 🚨 AI HIGH THREAT: 192.168.1.100 - Skill: 5/10
+2025-10-15 02:38:20,761 - ChameleonAIEngine - WARNING - 🚨 AI HIGH THREAT: 192.168.1.100 - Skill: 5/10
+2025-10-15 02:38:50,764 - ChameleonAIEngine - WARNING - 🚨 AI HIGH THREAT: 192.168.1.100 - Skill: 5/10
+2025-10-15 02:39:20,767 - ChameleonAIEngine - WARNING - 🚨 AI HIGH THREAT: 192.168.1.100 - Skill: 5/10
+2025-10-15 02:39:50,771 - ChameleonAIEngine - WARNING - 🚨 AI HIGH THREAT: 192.168.1.100 - Skill: 5/10
+2025-10-15 02:47:33,617 - ChameleonAIEngine - INFO - ✅ AI Threat Analyzer initialized
+2025-10-15 02:47:33,617 - ChameleonAIEngine - INFO - 🚀 Starting Chameleon AI-Powered Deception Engine
+2025-10-15 02:47:33,617 - ChameleonAIEngine - INFO - 🎭 AI Initial personalities: ['linux_web_server', 'windows_server_2019']
+2025-10-15 02:47:33,617 - ChameleonAIEngine - INFO - ✅ AI Engine fully operational
+2025-10-15 02:47:33,617 - ChameleonAIEngine - WARNING - 🤖 AI DETECTED CRITICAL ATTACK: SQL_INJECTION from 192.168.1.100
+2025-10-15 02:47:33,617 - ChameleonAIEngine - INFO - 🤖 AI HIGH RESPONSE: Enhanced deception tactics
+2025-10-15 02:47:33,617 - ChameleonAIEngine - INFO - 🔄 AI Switched to personalities: ['iot_camera', 'windows_server_2019', 'linux_web_server']
+2025-10-15 02:47:33,617 - ChameleonAIEngine - INFO - 📡 Starting AI network monitoring...
+2025-10-15 02:47:33,618 - ChameleonAIEngine - WARNING - 🚨 AI HIGH THREAT: 192.168.1.100 - Skill: 5/10
+2025-10-15 02:48:03,626 - ChameleonAIEngine - WARNING - 🚨 AI HIGH THREAT: 192.168.1.100 - Skill: 5/10

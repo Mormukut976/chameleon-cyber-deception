@@ -1,0 +1,32 @@
+# Core Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+websockets==12.0
+aiofiles==23.2.0
+
+# Data Science (Kali Compatible)
+numpy==1.24.3
+scikit-learn==1.2.2
+pandas==1.5.3
+scipy==1.10.1
+
+# Network & Security
+scapy==2.5.0
+paramiko==3.3.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Database
+elasticsearch==8.11.0
+redis==5.0.1
+
+# Dashboard
+plotly==5.17.0
+dash==2.14.2
+dash-bootstrap-components==1.5.0
+
+# Crypto & Utilities
+cryptography==41.0.4
+pyOpenSSL==23.2.0
+faker==19.13.0
