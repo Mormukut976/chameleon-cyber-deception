@@ -15,6 +15,8 @@ blockchain-based forensic evidence, and MITRE ATT&CK mapping.**
 
 [Features](#-features) · [Quick Start](#-quick-start) · [Architecture](#-architecture) · [Dashboard](#-dashboard) · [API](#-api-reference) · [MITRE Coverage](#%EF%B8%8F-mitre-attck-coverage)
 
+![Dashboard Preview](images/dashboard.png)
+
 </div>
 
 ---
