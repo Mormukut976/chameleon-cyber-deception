@@ -1,0 +1,63 @@
+version: '3.8'
+
+services:
+  chameleon:
+    build: .
+    container_name: chameleon-framework
+    ports:
+      - "8050:8050"   # Dashboard
+      - "8055:8055"   # REST API
+      - "2222:2222"   # SSH Honeypot
+      - "8081:8081"   # HTTP Honeypot 1
+      - "8082:8082"   # HTTP Honeypot 2
+      - "8083:8083"   # HTTP Honeypot 3
+    volumes:
+      - chameleon-data:/app/data
+      - chameleon-models:/app/modules/ai/models
+    environment:
+      - PYTHONUNBUFFERED=1
+      - CHAMELEON_ENV=production
+    restart: unless-stopped
+    networks:
+      - chameleon-net
+    deploy:
+      resources:
+        limits:
+          memory: 1G
+          cpus: '1.0'
+
+  redis:
+    image: redis:7-alpine
+    container_name: chameleon-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    networks:
+      - chameleon-net
+    restart: unless-stopped
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.11.0
+    container_name: chameleon-elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms256m -Xmx256m"
+    ports:
+      - "9200:9200"
+    volumes:
+      - es-data:/usr/share/elasticsearch/data
+    networks:
+      - chameleon-net
+    restart: unless-stopped
+
+volumes:
+  chameleon-data:
+  chameleon-models:
+  redis-data:
+  es-data:
+
+networks:
+  chameleon-net:
+    driver: bridge
